@@ -1,0 +1,11 @@
+{
+	"css_files" : [
+        "assets/css/style.css"
+    ],
+    "js_files" : [
+        "assets/js/code.js"
+    ],
+    "json_files" : [
+        "assets/data/questions.json"
+    ]
+}
