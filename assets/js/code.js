@@ -1,4 +1,4 @@
-function web_dev_test(){}
+function baseObj(){}
 (function(){
     var THIS = this;
     this.defined = function(x){
@@ -30,4 +30,4 @@ function web_dev_test(){}
     this.services = {
 
     };
-}).apply(web_dev_test);
+}).apply(baseObj);
